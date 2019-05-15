@@ -1,0 +1,10 @@
+Plaktukas 10 5 1 1
+Atsuktuvas 5 10 1 1
+Verzliaraktis 10 25 1 1
+Reples 25 35 0 0
+Kaltas 5 15 0 0
+Dilde 10 10 0 0
+Vamzdis 5 5 0 0
+Kampinis 200 150 0 0
+Keltas 150 125 0 0
+Domkratas 100 100 0 0
