@@ -1,0 +1,15 @@
+0 Pasikelti 5 lygi.
+0 Pasikelti 10 lygi.
+0 Pasikelti 15 lygi.
+0 pasikelti 20 lygi.
+0 Isardyti 5 masinas.
+0 Isardyta 10 masinu.
+0 isardyti 15 masinu.
+0 isardyti 20 masinu.
+0 Sukaupti 50 euru.
+0 Surinkti 100 euru.
+0 surinkti 200 simtus euru.
+0 surinkti 500 euru.
+0 gauti varikli.
+0 Nusipirkti reples.
+0 Pradeti zaidima sunkiausiame lygyje.

@@ -1,27 +1,35 @@
-Durys 1
-vairuotojoLangas 1
-KeleivioLangas 1
-PriekinisLangas 2
-Ratlankis 2
-Padanga 1
-Sodyne 1
-Vairas 3
-Turbina 2
-Generatorius 3
-Akumuliatorius 1
-Orofiltras 1
-Galva 2
-Cilindrai 2
-Stumuokliai 1
-AlkuninsVelenas 3
-GreiciuDeze 3
-Plastmases 1
-Kapotas 1
-Lempos 2
-GalinesLempos 1
-Pedalai 1
-Kardanas 2
-Reduktorius 3
-KuroSiurblys 2
-kablys 1
-Radiatorius 1 
+Durys 1 0 0
+vairuotojoLangas 1 0 0
+KeleivioLangas 1 0 0
+PriekinisLangas 2 0 0
+Ratlankis 2 0 0
+Padanga 1 0 0
+Sodyne 1 0 0
+Vairas 3 0 0
+Turbina 2 0 0
+Generatorius 3 0 0
+Akumuliatorius 1 0 0
+Orofiltras 1 0 0
+Galva 2 0 0
+Cilindrai 2 0 0
+Stumuokliai 1 0 0
+AlkuninsVelenas 3 0 0
+GreiciuDeze 3 0 0
+Plastmases 1 0 0
+Kapotas 1 0 0
+Lempos 2 0 0
+GalinesLempos 1 0 0
+Pedalai 1 0 0
+Kardanas 2 0 0
+Reduktorius 3 0 0
+KuroSiurblys 2 0 0
+kablys 1 0 0
+Radiatorius 1 0 0
+Kolektorius 1 0 0
+Buferis 2 0 0
+Duslintuvas 3 0 0
+Trosas 1 0 0
+Sankaba 3 0 0
+Variklis 25 0 0
+Smagratis 4 0 0
+Trauke 1 0 0

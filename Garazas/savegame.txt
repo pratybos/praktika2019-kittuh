@@ -1,0 +1,64 @@
+Jonas
+0
+0
+1
+Plaktukas 10 5 1 1
+Atsuktuvas 5 10 1 1
+Verzliaraktis 10 25 1 1
+Reples 25 35 0 0
+Kaltas 5 15 0 0
+Dilde 10 10 0 0
+Vamzdis 5 5 0 0
+Kampinis 200 150 0 0
+Keltas 150 125 0 0
+Domkratas 100 100 0 0
+Durys 1 1 1
+vairuotojoLangas 1 0 0
+KeleivioLangas 1 0 0
+PriekinisLangas 2 0 0
+Ratlankis 2 0 0
+Padanga 1 0 0
+Sodyne 1 0 0
+Vairas 3 0 0
+Turbina 2 0 0
+Generatorius 3 0 0
+Akumuliatorius 1 0 0
+Orofiltras 1 0 0
+Galva 2 0 0
+Cilindrai 2 0 0
+Stumuokliai 1 0 0
+AlkuninsVelenas 3 0 0
+GreiciuDeze 3 0 0
+Plastmases 1 0 0
+Kapotas 1 0 0
+Lempos 2 0 0
+GalinesLempos 1 0 0
+Pedalai 1 0 0
+Kardanas 2 0 0
+Reduktorius 3 0 0
+KuroSiurblys 2 0 0
+kablys 1 0 0
+Radiatorius 1 0 0
+Kolektorius 1 0 0
+Buferis 2 0 0
+Duslintuvas 3 0 0
+Trosas 1 0 0
+Sankaba 3 0 0
+Variklis 25 0 0
+Smagratis 4 0 0
+Trauke 1 1 1
+0  Pasikelti 5 lygi
+0  Pasikelti 10 lygi
+0  Pasikelti 15 lygi
+0  pasikelti 20 lygi
+0  Isardyti 5 masinas
+0  Isardyta 10 masinu
+0  isardyti 15 masinu
+0  isardyti 20 masinu
+0  Sukaupti 50 euru
+0  Surinkti 100 euru
+0  surinkti 200 simtus euru
+0  surinkti 500 euru
+0  gauti varikli
+0  Nusipirkti reples
+0  Pradeti zaidima sunkiausiame lygyje
